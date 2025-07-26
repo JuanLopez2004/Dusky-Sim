@@ -24,3 +24,9 @@
 /dialogue.tab
 /dialogue.txt
 /strings.json
+
+#assets
+/game/images
+/game/gui
+/game/audio
+
