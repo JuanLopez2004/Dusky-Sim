@@ -37,7 +37,7 @@ label scene2:
         "Terrible. Stevo ran out of italian ice and I had to drink a fucking soda!":
             "You lean in distressed."
             show dusky sad
-            Dusky "Damn Chavid, I love you I always have. i want to be with you forever."
+            Dusky "Damn dude, that sucks so much."
             
         "I'm okay":
             "You say with an evil fucked up voice." 
@@ -46,8 +46,10 @@ label scene2:
             
         "Just shut up and let's go to 466":
             "You groan with Behuta-ness"
-            show dusky blushing
+            show dusky sad
             Dusky "Oh, okay, I guess we can go to class then."
+            Dusky "Okay then. Didn't hurt me at all."
+            "You Made Dusky sad."
 
     scene black with fade
     jump scene3
@@ -58,7 +60,7 @@ label scene3:
 
     "You arrive at the Computer Science building."
 
-    show dusky tired
+    show dusky normal
     Dusky "We're late for class, we gotta learn HTML!"
     
     hide dusky
